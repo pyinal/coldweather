@@ -4,7 +4,7 @@
     <list>
         <mapping class="com.pyinal.coldweather.db.Province" />
         <mapping class="com.pyinal.coldweather.db.City" />
-        <mapping class="com.pyinal.coldweather.db.Country" />
+        <mapping class="com.pyinal.coldweather.db.County" />
     </list>
 
 </litepal>
