@@ -1,3 +1,4 @@
+/*
 package com.pyinal.coldweather.service;
 
 import android.app.AlarmManager;
@@ -91,3 +92,4 @@ public class AutoUpdateService extends Service {
         });
     }
 }
+*/
